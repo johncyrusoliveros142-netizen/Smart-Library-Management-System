@@ -15,3 +15,11 @@ Development Team
 Student Name:john cyrus oliveros
 Course: bsit - sd
 Section: 2c
+
+Member Management Module
+
+Features
+- Register New Member
+- Update Member Information
+- Delete Member Record
+- Search Member
