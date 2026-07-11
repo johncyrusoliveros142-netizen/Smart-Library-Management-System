@@ -22,3 +22,8 @@ Features
 - Update Member Information
 - Delete Member Record
 - Search Member
+
+Library Reports Module
+
+Features:
+- Generate borrowing reports
